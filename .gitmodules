@@ -1,0 +1,9 @@
+[submodule "SparkFun-KiCad-Libraries"]
+	path = SparkFun-KiCad-Libraries
+	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library
+[submodule "lc_kicad_lib"]
+	path = lc_kicad_lib
+	url = https://github.com/xtoolbox/lc_kicad_lib

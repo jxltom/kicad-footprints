@@ -7,3 +7,6 @@
 [submodule "lc_kicad_lib"]
 	path = _submodules/lc_kicad_lib
 	url = https://github.com/xtoolbox/lc_kicad_lib
+[submodule "kicad-custom-lib"]
+	path = _submodules/kicad-custom-lib
+	url = https://github.com/jxltom/kicad-custom-lib

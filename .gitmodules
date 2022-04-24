@@ -1,12 +1,12 @@
 [submodule "SparkFun-KiCad-Libraries"]
 	path = _submodules/SparkFun-KiCad-Libraries
-	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
+	url = https://github.com/jxltom/SparkFun-KiCad-Libraries
 [submodule "digikey-kicad-library"]
 	path = _submodules/digikey-kicad-library
-	url = https://github.com/Digi-Key/digikey-kicad-library
+	url = https://github.com/jxltom/digikey-kicad-library
 [submodule "lc_kicad_lib"]
 	path = _submodules/lc_kicad_lib
-	url = https://github.com/xtoolbox/lc_kicad_lib
+	url = https://github.com/jxltom/lc_kicad_lib
 [submodule "kicad-custom-lib"]
 	path = _submodules/kicad-custom-lib
 	url = git@github.com:jxltom/kicad-custom-lib.git
